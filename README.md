@@ -16,7 +16,7 @@ push file to style library using gulp task
         ```
 * npm install --save
 * Copy the installation files from InstallationFiles folder to your solution, for info the package contains
-        ```
+      
         src
             style library
                 libTest
@@ -24,7 +24,7 @@ push file to style library using gulp task
         config.json
         gulp.js 
         settings.js
-        ```
+      
 * Configure config.json
         * Inform your site url, credentials (without domain)
         * specify location : style library/libtest (subfolder)
