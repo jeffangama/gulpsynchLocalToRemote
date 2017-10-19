@@ -6,7 +6,10 @@ push file to style library using gulp task
 
 # Installation
 
-* npm init
+* Step 1
+```
+npm init
+```
 * Copy those dependencies to package.json
 ```
 "gulp": "^3.9.1",
@@ -14,7 +17,11 @@ push file to style library using gulp task
 "gulp-plumber": "^1.1.0",
 "gulp-spsync-creds": "^2.2.6"
 ```
-* npm install --save
+
+* Install dependencies
+```
+npm install --save
+```
 * Copy the installation files from InstallationFiles folder to your solution, for info the package contains
 
 ```   
