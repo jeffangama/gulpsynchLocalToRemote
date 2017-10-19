@@ -8,12 +8,12 @@ push file to style library using gulp task
 
 * npm init
 * Copy those dependencies to package.json
-        ```
-        "gulp": "^3.9.1",
-        "gulp-clean": "^0.3.2",
-        "gulp-plumber": "^1.1.0",
-        "gulp-spsync-creds": "^2.2.6"
-        ```
+```
+"gulp": "^3.9.1",
+"gulp-clean": "^0.3.2",
+"gulp-plumber": "^1.1.0",
+"gulp-spsync-creds": "^2.2.6"
+```
 * npm install --save
 * Copy the installation files from InstallationFiles folder to your solution, for info the package contains
 
@@ -35,20 +35,20 @@ settings.js
 # Usage
 
 * A) Push to files to style library immediately. It will create the folder by it self
-    ```
-    gulp 
-    ```
+```
+gulp 
+```
 
     or 
 
 * B) Watch changes and push to style library
-    ```
-    gulp watch
-    ```
+```
+gulp watch
+```
 
 * C) if you specified published : false in config.json, it wont get publish until you run
-    ```
-    gulp publish
-    ```
+```
+gulp publish
+```
     
     F5 in browser
