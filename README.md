@@ -46,7 +46,7 @@ settings.js
 gulp 
 ```
 
-    or 
+or 
 
 * B) Watch changes and push to style library
 ```
