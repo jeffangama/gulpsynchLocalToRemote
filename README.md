@@ -28,15 +28,15 @@ push file to style library using gulp task
 
 # Usage
 
-    * A) Push to files to style library immediately. It will create the folder by it self
+* A) Push to files to style library immediately. It will create the folder by it self
     gulp 
 
     or 
 
-    * B) Watch changes and push to style library
+* B) Watch changes and push to style library
     gulp watch
 
-    * C) if you specified published : false in config.json, it wont get publish until you run
+* C) if you specified published : false in config.json, it wont get publish until you run
     gulp publish
 
     F5 in browser
