@@ -12,10 +12,12 @@ npm init
 ```
 * Copy those dependencies to package.json
 ```
-"gulp": "^3.9.1",
-"gulp-clean": "^0.3.2",
-"gulp-plumber": "^1.1.0",
-"gulp-spsync-creds": "^2.2.6"
+"dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-plumber": "^1.1.0",
+    "gulp-spsync-creds": "^2.2.6"
+}
 ```
 
 * Install dependencies
