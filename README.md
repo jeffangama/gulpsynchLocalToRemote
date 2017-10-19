@@ -1,10 +1,10 @@
 v1  - MAX / Jeff ANGAMA
 
-#Objective : 
+# Objective : 
 push file to style library using gulp task
 
 
-#Installation
+# Installation
 
     * npm init
     * Copy those dependencies to package.json
@@ -26,7 +26,7 @@ push file to style library using gulp task
         * specify location : style library/libtest (subfolder)
         * publish the file or not ?
 
-#Usage
+# Usage
 
     * A) Push to files to style library immediately. It will create the folder by it self
     gulp 
